@@ -2,14 +2,14 @@
   "schema": 1,
   "channel": "stable",
   "packageName": "dev.xaos.app",
-  "versionName": "0.2.4",
-  "versionCode": 7,
+  "versionName": "0.2.6",
+  "versionCode": 9,
   "minSdk": 29,
-  "publishedAt": "2026-09-13T21:38:34Z",
-  "notes": "自动更新链路测试版：用于验证 v0.2.3 的版本提醒、下载、安全校验与系统安装流程。",
+  "publishedAt": "2026-09-13T22:09:04Z",
+  "notes": "自动更新无节流测试版：客户端每次启动或回到前台都会检查新版本。",
   "apk": {
-    "url": "https://github.com/XAOSLABS/XAOS-Distribution/releases/download/v0.2.4/xaos-0.2.4-arm64.apk",
+    "url": "https://github.com/XAOSLABS/XAOS-Distribution/releases/download/v0.2.6/xaos-0.2.6-arm64.apk",
     "size": 2386814,
-    "sha256": "d97211383c26b87bb9b5fa8a43fe1d71f4b59cde6000c2315530c8346d52a3a5"
+    "sha256": "7b1607f85307713ffe200f89ba0ebc8094bb0c225f8592f91d477452d366a96b"
   }
 }
