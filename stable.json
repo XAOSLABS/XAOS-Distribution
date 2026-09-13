@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "packageName": "dev.xaos.app",
+  "versionName": "0.2.3",
+  "versionCode": 6,
+  "minSdk": 29,
+  "publishedAt": "2026-09-13T21:15:48Z",
+  "notes": "新增应用内自动版本提醒、断点续传下载、安全校验与系统安装流程。",
+  "apk": {
+    "url": "https://github.com/XAOSLABS/XAOS-Distribution/releases/download/v0.2.3/xaos-0.2.3-arm64.apk",
+    "size": 2386814,
+    "sha256": "edbec71b215f6d151a2bf53001cd5e151cd71e464dbfa996aeae15065acc16ca"
+  }
+}
