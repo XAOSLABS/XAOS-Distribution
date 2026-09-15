@@ -2,14 +2,14 @@
   "schema": 1,
   "channel": "stable",
   "packageName": "dev.xaos.app",
-  "versionName": "0.2.6",
-  "versionCode": 9,
+  "versionName": "0.6.0",
+  "versionCode": 216,
   "minSdk": 29,
-  "publishedAt": "2026-09-13T22:09:04Z",
-  "notes": "自动更新无节流测试版：客户端每次启动或回到前台都会检查新版本。",
+  "publishedAt": "2026-09-15T06:28:41Z",
+  "notes": "前台执行生命周期、聊天 UI 重做、端上语音与端上大模型。语音无 VAD，安静环境可能产生幻听文本；语音与本地模型质量 NOT MEASURED。仅在 Pixel 7 / Android 17 单机认证，非设备矩阵结论。",
   "apk": {
-    "url": "https://github.com/XAOSLABS/XAOS-Distribution/releases/download/v0.2.6/xaos-0.2.6-arm64.apk",
-    "size": 2386814,
-    "sha256": "7b1607f85307713ffe200f89ba0ebc8094bb0c225f8592f91d477452d366a96b"
+    "url": "https://github.com/XAOSLABS/XAOS-Distribution/releases/download/v0.6.0/xaos-0.6.0-arm64.apk",
+    "size": 25944061,
+    "sha256": "249fccfa86e61a3d816263e0c62b95a52aaf1bb81db8bc7bf2a2ea278ed8df0e"
   }
 }
